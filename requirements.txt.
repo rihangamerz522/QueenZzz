@@ -1,1 +1,6 @@
-
+discord.py==2.4.0
+python-dotenv
+PyNaCl
+yt-dlp
+aiohttp
+aiosqlite
