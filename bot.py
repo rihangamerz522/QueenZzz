@@ -29,7 +29,6 @@ initial_extensions = [
     "cogs.automod",
     "cogs.security",
     "cogs.logging",
-    "cogs.music",
     "cogs.tickets",
     "cogs.utility",
 ]
